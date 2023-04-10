@@ -61,10 +61,10 @@ module.exports = [
     name: 'luci-app-cpufreq',
     desc: 'CPU 性能优化调节',
   },
-//   {
-//     name: 'luci-app-samba4',
-//     desc: 'samba4文件共享',
-//   },
+   {
+     name: 'luci-app-samba4',
+     desc: 'samba4文件共享',
+   },
 //   {
 //     name: 'luci-app-sqm',
 //     desc: '流量智能队列管理(QOS)',
@@ -89,10 +89,10 @@ module.exports = [
 //     name: 'luci-app-passwall',
 //     desc: 'passwall代理软件',
 //   },
-//   {
-//     name: 'luci-app-ssr-plus',
-//     desc: 'ssr-plus 代理软件',
-//   },
+   {
+     name: 'luci-app-ssr-plus',
+     desc: 'ssr-plus 代理软件',
+   },
 //   {
 //     name: 'luci-app-aliddns',
 //     desc: '阿里云ddns插件',
