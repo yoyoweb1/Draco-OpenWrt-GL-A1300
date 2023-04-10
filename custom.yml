@@ -28,6 +28,7 @@ packages:
   - luci-app-serverchan
   - luci-app-transmission
   - luci-app-ssr-plus
+  - luci-app-samba4
 diffconfig: |
   CONFIG_PACKAGE_wpad-basic=n
   CONFIG_PACKAGE_wpad=n
