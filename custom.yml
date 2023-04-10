@@ -27,6 +27,7 @@ packages:
   - luci-app-ttyd
   - luci-app-serverchan
   - luci-app-transmission
+  - luci-app-ssr-plus
 diffconfig: |
   CONFIG_PACKAGE_wpad-basic=n
   CONFIG_PACKAGE_wpad=n
