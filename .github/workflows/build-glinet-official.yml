@@ -27,7 +27,7 @@ jobs:
     strategy:
       matrix:
         # 设备
-        device: [target_wlan_ap-gl-ax1800, target_wlan_ap-gl-axt1800]
+        device: [target_wlan_ap-gl-a1300]
         ui: [true]
 
     steps:
