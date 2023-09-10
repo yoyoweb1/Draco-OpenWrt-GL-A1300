@@ -6,7 +6,7 @@ feeds:
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
-    revision: 1331da50f3d8571f8da0a08c41769b69accb8489
+    revision: 97b019be0a676c48ec2d804f0aace49cefcbb365
   - name: small_package
     uri: https://github.com/kenzok8/small-package.git
     branch: main
