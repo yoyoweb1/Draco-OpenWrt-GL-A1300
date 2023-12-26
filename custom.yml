@@ -6,11 +6,11 @@ feeds:
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
-    revision: f7d44ac8048a0e9f9ea63381070eb57dbca1fba8
+    revision: 5829eabba50ec0afa17d2ee486bc90dc15180c34
   - name: small_package
     uri: https://github.com/kenzok8/small-package.git
     branch: main
-    revision: f993e5f1ea9c45308fc8990334ade828f84527c5
+    revision: f79214c4f3b7018e938e17610dde45ffd6628032
 packages:
   - luci-theme-argon
   - luci-app-argon-config
